@@ -16,7 +16,8 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">White Hat Hacker especializado em segurança cibernética. Apaixonado por proteger sistemas através de hacking ético.<br><br>- 🔭 Atuo em pentest e análise de vulnerabilidades<br>- 📚 Estudando novas técnicas de segurança<br></p>
+<p align="left">White Hat Hacker especializado em segurança cibernética. 
+  Apaixonado por proteger sistemas através de hacking ético.<br><br>- 🔭 Atuo em pentest e análise de vulnerabilidades<br>- 📚 Estudando novas técnicas de segurança<br></p>
 
 ###
 
