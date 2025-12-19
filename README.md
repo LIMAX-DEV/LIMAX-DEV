@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/GXjn.gif"  />
+  <img height="150" src="https://gingesbecray.com/wp-content/uploads/2016/08/fsociety.gif"  />
 </div>
 
 ###
@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Welcome The Jungle</h1>
 
 ###
 
