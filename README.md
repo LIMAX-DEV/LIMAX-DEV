@@ -1,4 +1,4 @@
-<div align="center">https://i.gifer.com/GXjn.gif
+<div align="center">
   <img height="150" src="https://i.gifer.com/GXjn.gif"  />
 </div>
 
