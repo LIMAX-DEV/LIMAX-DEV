@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Welcome The Jungle</h1>
+<h1 align="center">Welcome 👋</h1>
 
 ###
 
